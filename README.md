@@ -18,8 +18,7 @@ RAG 시스템에 대해 조금 Study한 과정을 기록했습니다.
 
 
 
-
-  참고하면 좋은 논문 :
+# 참고하면 좋은 논문 :
   [1] RAFT: Adapting Language Model to Domain Specific RAG (https://arxiv.org/abs/2403.10131)
   [2] Corrective Retrieval Augmented Generation (https://arxiv.org/abs/2401.15884)
   [3] Precise Zero-Shot Dense Retrieval without Relevance Labels (https://arxiv.org/abs/2212.10496)
