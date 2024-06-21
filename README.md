@@ -4,7 +4,7 @@ RAG 시스템에 대해 조금 Study한 과정을 기록했습니다.
 
 
 
-# 문제점 및 개선사항 : 
+### 문제점 및 개선사항 : 
 - query : 사용자 질문은 매우 다양함, 예를 들어 오늘, 어제, 언제까지 등등.. 사용자 intend를 판별할 수 있는 방안 필요 (본 프로젝트에서는 미진행), 또한 접근방식에 따라 키워드/시멘틱을 혼합한 방법, Hyde 방법을 고려해야함 
 - preprocessing : pdf와 같은 경우 규격이 특별히 정해진게 없어서 html, json, lxml과 달리 상당히 어려울 것으로 예상 (layout parser와 같은 경우 고려했으나, 시간상 보류)
 - retriever : 검색 단계로, 단순히 임베딩 벡터를 넘어서 reranker 모델도 필요함. 하고 안하고 차이가 심함 (현재는 오픈소스로 했으나 도메인에 따라 파인튜닝할 필요가 있음 -> 유료 모델로는 cohere 사의 모델이 용이)
@@ -18,7 +18,7 @@ RAG 시스템에 대해 조금 Study한 과정을 기록했습니다.
 
 
 
-# 참고하면 좋은 논문 :
+### 참고하면 좋은 논문 :
   [1] RAFT: Adapting Language Model to Domain Specific RAG (https://arxiv.org/abs/2403.10131)
   
   [2] Corrective Retrieval Augmented Generation (https://arxiv.org/abs/2401.15884)
