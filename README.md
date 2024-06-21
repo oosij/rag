@@ -17,6 +17,12 @@ RAG 시스템에 대해 조금 Study한 과정을 기록했습니다.
 
 
 
+### 결과물 예시 : 
+![image](https://github.com/oosij/rag/assets/94098546/79a65871-0bbc-4edc-8dd8-897278b76aac)
+
+
+
+
 
 ### 참고하면 좋은 논문 :
   [1] RAFT: Adapting Language Model to Domain Specific RAG (https://arxiv.org/abs/2403.10131)
