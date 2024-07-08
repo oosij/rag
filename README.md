@@ -20,7 +20,7 @@ RAG 시스템에 대해 Study한 과정을 기록했습니다.
 ### 결과물 예시 : 
 ![image](https://github.com/oosij/rag/assets/94098546/79a65871-0bbc-4edc-8dd8-897278b76aac)
 
-- 위는 RAG running 작업물로, Advanced 한 RAG는 RAG advanced_local_only를 참고
+- 위는 RAG running 작업물로, Advanced 한 RAG는 RAG advanced_local_only를 참고 (chunking 전략 추가)
 - 개선사항으로, 1) query 문제와, 2) 추론 단계 도입(CoT), 3) 평가 모델 도입이 있으나 현재 보류 (시간/비용 문제) 
 
 
